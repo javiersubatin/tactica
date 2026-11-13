@@ -1,0 +1,8 @@
+{
+  "appId": "com.javiersubatin.tactica",
+  "appName": "Tactica",
+  "webDir": "www",
+  "backgroundColor": "#0a1120",
+  "ios": { "contentInset": "never" },
+  "android": { "allowMixedContent": false }
+}
